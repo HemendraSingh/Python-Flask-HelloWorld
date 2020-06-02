@@ -3,7 +3,18 @@ A starter Python Flask Hello World project template using Python 3.6.9
 This template has been made with VSCode.
 It uses Python virtual enrionment.
 
-How to use?
+**Installing Python**:
+
+https://www.python.org/downloads/<br/>
+https://realpython.com/installing-python/
+
+**Installing PIP**:
+https://www.tecmint.com/install-pip-in-linux/
+
+**Installing Virtual Environemnt**:
+https://pypi.org/project/virtualenv/
+
+**How to use?**
 - Clone the git repo: <code>git clone https://github.com/HemendraSingh/Python-Flask-HelloWorld.git</code>
 - Open the folder in VSCode.
 - Assumptions: python3 refers to python 3.x and python refres to python 2.x. Same is the case with pip. 
