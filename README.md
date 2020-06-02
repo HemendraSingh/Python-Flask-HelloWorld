@@ -8,6 +8,6 @@ How to use?
 - Open the folder in VSCode.
 - Assumptions: python3 refers to python 3.x and python refres to python 2.x. Same is the case with pip. 
 - Run <code>python -m venv .venv</code> or <code>python3 -m venv .venv</code> to create the virtual environment
-- Activate the virtual enrionement. <code>source .venv/bin/activate</code> on Linux or <code>.\.venv\Scripts\activate</code>. If you face any issues check out the documentation here: https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+- Activate the virtual enrionement: <code>source .venv/bin/activate</code> on Linux or <code>.\.venv\Scripts\activate</code> on Windows. If you face any issues check out the documentation here: https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
 - Install the requirements -<code>pip install -r requirements.txt</code> or <code>pip3 install -r requirements.txt</code>
 - Open app.py and run the application.
